@@ -47,7 +47,7 @@ npm start
 ---
 
 ## Live Frontend URL
-👉 https://frontend.vercel.app/
+👉 https://eldlogfrontend.onrender.com
 
 ---
 
