@@ -1,0 +1,38 @@
+.log-sheet {
+    margin-bottom: 2rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .log-bar {
+    display: flex;
+    flex-wrap: nowrap;
+    border: 1px solid #333;
+  }
+  
+  .log-segment {
+    width: 4%;
+    height: 40px;
+    border-right: 1px solid #ccc;
+    text-align: center;
+    font-size: 10px;
+    line-height: 40px;
+  }
+  
+  .log-segment.off {
+    background-color: #eee;
+  }
+  
+  .log-segment.onduty {
+    background-color: #ffcc00;
+  }
+  
+  .log-segment.driving {
+    background-color: #00cc66;
+    color: white;
+  }
+  
+  .log-segment.sleeper {
+    background-color: #6666ff;
+    color: white;
+  }
+  
