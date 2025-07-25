@@ -26,7 +26,7 @@ export default function TripForm() {
     setError('');
 
     try {
-      const response = await axios.post('http://127.0.0.1:8000/api/trip/plan/', form);
+      const response = await axios.post('https://eldlogs-xkka.onrender.com/api/trip/plan/', form);
       setResult(response.data);
     } catch (err) {
       if (err.response && err.response.data && err.response.data.error) {
