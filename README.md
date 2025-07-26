@@ -52,7 +52,7 @@ npm start
 ---
 
 ## 📹 Loom Demo
-👉 https://loomvideo.vercel.app/
+👉 https://www.loom.com/share/35c94a9e6bab4dfd92bc190710e08209
 
 ---
 
